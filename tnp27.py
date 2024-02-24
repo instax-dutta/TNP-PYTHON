@@ -38,3 +38,4 @@ magic_square(5)
 #magic_square(11)
 #magic_square(13)
 #magic_square(15)
+
