@@ -1,4 +1,4 @@
-#print pattern according to the list values 
+#print pattern in tnp23.py code horizontally according to the list values approach 1
 list = [1, 3, 2, 4, 6, 1]
 max_value = max(list)
 
